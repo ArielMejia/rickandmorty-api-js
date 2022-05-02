@@ -1,0 +1,28 @@
+{
+  "name": "rickandmorty-api",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismos en Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielMejia/rickandmorty-api-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Kevin Ariel Mejia Deras kamejiad@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArielMejia/rickandmorty-api-js/issues"
+  },
+  "homepage": "https://github.com/ArielMejia/rickandmorty-api-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
